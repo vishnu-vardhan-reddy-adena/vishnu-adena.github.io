@@ -1,4 +1,5 @@
 {
+  "homepage": "vishnu-adena.github.io/vishnu-adena.github.io",
   "name": "huron_ars",
   "version": "0.1.0",
   "private": true,
@@ -35,6 +36,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
