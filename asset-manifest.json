@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/vishnu-adena.github.io/vishnu-adena.github.io/static/css/main.978c5dfe.css",
+    "main.js": "/vishnu-adena.github.io/vishnu-adena.github.io/static/js/main.1be1dae0.js",
+    "static/media/SignInPageImg.jpeg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/SignInPageImg.7caf89d9f6660dba247d.jpeg",
+    "static/media/Vishnu.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/Vishnu.adc98c34f8cfb00a545c.jpg",
+    "static/media/logo.png": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/logo.e17b9d9c35a40a01150e.png",
+    "static/media/SignUpPageImg.jpeg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/SignUpPageImg.f843681230d071fe2e53.jpeg",
+    "static/media/S2.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/S2.28954fde6de01eeb0382.jpg",
+    "static/media/C7.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/C7.346a3c831689b3f187b8.jpg",
+    "static/media/shiva.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/shiva.bcbd19e6f13e52ed5bb8.jpg",
+    "static/media/M4.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/M4.98c94d97ea380a2c44a3.jpg",
+    "static/media/A1.png": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/A1.a4094e31b58966129642.png",
+    "static/media/S1.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/S1.2ad8ab8c4ed1a663aa4d.jpg",
+    "static/media/M8.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/M8.42a368eca7731f16f144.jpg",
+    "static/media/A4.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/A4.842fe9216aa4d950d5af.jpg",
+    "static/media/C3.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/C3.e483f7484c1c87a86da3.jpg",
+    "static/media/A2.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/A2.03e59f7591f9414aed45.jpg",
+    "static/media/gourav.jpg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/gourav.c201503cb52e86e72fc2.jpg",
+    "static/media/chirag.jpeg": "/vishnu-adena.github.io/vishnu-adena.github.io/static/media/chirag.caf350cdcb0631448838.jpeg",
+    "index.html": "/vishnu-adena.github.io/vishnu-adena.github.io/index.html",
+    "main.978c5dfe.css.map": "/vishnu-adena.github.io/vishnu-adena.github.io/static/css/main.978c5dfe.css.map",
+    "main.1be1dae0.js.map": "/vishnu-adena.github.io/vishnu-adena.github.io/static/js/main.1be1dae0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.978c5dfe.css",
+    "static/js/main.1be1dae0.js"
+  ]
+}
